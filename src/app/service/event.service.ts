@@ -30,7 +30,7 @@ export class EventService {
     },
     {
       name: 'Buli Baluval',
-      date: '2022. anuár 10.',
+      date: '2022. január 10.',
       time: '11:00',
       location: {
         address: 'Balu utca',
