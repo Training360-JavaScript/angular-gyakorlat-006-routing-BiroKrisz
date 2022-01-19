@@ -9,8 +9,8 @@ export class EventService {
 
   list: Event[] = [
     {
-      name: 'End of the world',
-      date: '2038. Január 19.',
+      name: 'End of the World',
+      date: '2038. január 19.',
       time: '03:14:07',
       location: {
         address: 'Mindenki háza',
@@ -20,7 +20,7 @@ export class EventService {
     },
     {
       name: 'Dzsembori Borival',
-      date: 'Január 11',
+      date: '2022. február 11.',
       time: '18:00',
       location: {
         address: 'Borbála utca',
@@ -30,7 +30,7 @@ export class EventService {
     },
     {
       name: 'Buli Baluval',
-      date: 'Január 10',
+      date: '2022. anuár 10.',
       time: '11:00',
       location: {
         address: 'Balu utca',
